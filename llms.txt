@@ -1,0 +1,11 @@
+# homebrew-claude-code-conversation-colors
+
+> Homebrew tap for installing claude-colors — a CLI tool to customize text colors for user and Claude messages in Claude Code terminal sessions.
+
+## What it does
+- Homebrew formula for claude-colors on macOS (Apple Silicon and Intel)
+- One-command install: `brew tap ProducerGuy/claude-code-conversation-colors && brew install claude-colors`
+
+## Links
+- [Main Project](https://github.com/ProducerGuy/claude-code-conversation-colors)
+- [Homebrew Tap](https://github.com/ProducerGuy/homebrew-claude-code-conversation-colors)
